@@ -1,4 +1,5 @@
-![Alt text](logo-1.PNG)
+![logo](https://github.com/CelineBoutinon/faux-billets/assets/143210563/c6b645d3-3ced-4b28-839f-e28d95f56e34)
+
 
 
 # DETECTER DES FAUX BILLETS AVEC PYTHON
